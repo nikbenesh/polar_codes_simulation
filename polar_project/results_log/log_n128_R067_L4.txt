@@ -1,0 +1,10 @@
+n=128, R=0.667, L=4, mode=zero, Eb/N0=1.00 dB: frames=32, errors=30, FER=9.375e-01
+n=128, R=0.667, L=4, mode=zero, Eb/N0=1.50 dB: frames=35, errors=30, FER=8.571e-01
+n=128, R=0.667, L=4, mode=zero, Eb/N0=2.00 dB: frames=44, errors=30, FER=6.818e-01
+n=128, R=0.667, L=4, mode=zero, Eb/N0=2.50 dB: frames=49, errors=30, FER=6.122e-01
+n=128, R=0.667, L=4, mode=zero, Eb/N0=3.00 dB: frames=80, errors=30, FER=3.750e-01
+n=128, R=0.667, L=4, mode=zero, Eb/N0=3.50 dB: frames=186, errors=30, FER=1.613e-01
+n=128, R=0.667, L=4, mode=zero, Eb/N0=4.00 dB: frames=417, errors=30, FER=7.194e-02
+n=128, R=0.667, L=4, mode=zero, Eb/N0=4.50 dB: frames=1188, errors=30, FER=2.525e-02
+n=128, R=0.667, L=4, mode=zero, Eb/N0=5.00 dB: frames=4639, errors=30, FER=6.467e-03
+n=128, R=0.667, L=4, mode=zero, Eb/N0=5.50 dB: frames=19316, errors=30, FER=1.553e-03
